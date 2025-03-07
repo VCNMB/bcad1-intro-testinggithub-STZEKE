@@ -11,6 +11,10 @@ package com.mycompany.prjclasses;
 public class PrjClasses {
 
     public static void main(String[] args) {
-        System.out.println("Hello World! I Just Did My First GitHub Activity And Still hate Reece Now");
+        newClass nc = new newClass();
+        
+        nc.helloClass();// have to use variable name nc to communicate with the second class
+        
+        System.out.println(nc.strSecondClassVar);
     }
 }
