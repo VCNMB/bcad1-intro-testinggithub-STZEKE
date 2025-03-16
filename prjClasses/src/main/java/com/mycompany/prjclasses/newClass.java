@@ -15,7 +15,7 @@ public class newClass {
     
     public void helloClass()
     {
-        System.out.println("Hello from  the 2nd class ;)");
+        System.out.println("Hello from  the 2nd class ;)");  
     }
     
 }
